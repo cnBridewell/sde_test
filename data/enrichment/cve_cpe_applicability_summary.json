@@ -1,0 +1,10 @@
+{
+  "bridge_rows": 304,
+  "distinct_bridge_cves": 77,
+  "distinct_bridge_cpes": 114,
+  "max_cves_per_cpe": 4,
+  "valid_cve_links": 304,
+  "valid_cpe_links": 304,
+  "all_cve_links_valid": true,
+  "all_cpe_links_valid": true
+}

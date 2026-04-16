@@ -1,0 +1,10 @@
+services:
+  spark-local:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    working_dir: /workspace/candidate_pack_databricks
+    volumes:
+      - ..:/workspace/candidate_pack_databricks
+    environment:
+      - PYTHONUNBUFFERED=1

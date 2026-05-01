@@ -29,4 +29,3 @@ Part of the exercise is identifying and handling these in your pipeline/reportin
 
 ## Usage Notes
 - Data is synthetic (not production data).
-- The starter SQL utilities in `starter/sql/` can be used to profile and query this data quickly.
